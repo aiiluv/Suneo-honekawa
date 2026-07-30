@@ -6,8 +6,8 @@ This project is inspired by the popular **"Hear Me Out"** trend, and these past 
 
 ## Built With
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 ---
 
